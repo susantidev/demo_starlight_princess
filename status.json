@@ -1,0 +1,13 @@
+{
+   "status":true,
+   "status_check_google":true,
+   "start_day_check":"14",
+   "end_day_check":"26",
+   "check_installation":true,
+   "day_of_installation":0,
+   "link_wa":"https://api.whatsapp.com/send/?phone=855317618639&text&type=phone_number&app_absent=0",
+   "master_url":"https://batarasbo.com/",
+   "second_url":"https://susantidev.github.io/demo_starlight_princess/",
+   "demo_url":"https://susantidev.github.io/demo_starlight_princess/",
+   "rtp_url":"https://rtpbatara88.com/"
+}
